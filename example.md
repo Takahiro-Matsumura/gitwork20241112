@@ -7,3 +7,4 @@ hello world!
 いち
 2
 三
+フォウ
